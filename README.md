@@ -1,3 +1,1 @@
-# kyelindholm.github.io
-
-Placeholder
+# a real abstraction
