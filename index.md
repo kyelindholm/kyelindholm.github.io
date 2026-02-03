@@ -1,3 +1,12 @@
 # a real abstraction
+[about](about.md)
 
-go to [about page](about.md)
+### thinkers:
+- [marx](marx.md)
+- [althusser](althusser.md)
+- [derrida](derrida.md)
+- [freud](freud.md)
+- [lacan](lacan.md)
+- [marcuse](marcuse.md)
+- [reich](reich.md)
+- [adorno](adorno.md)
